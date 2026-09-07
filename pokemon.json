@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "base_experience": 64,
+        "height": 7,
+        "is_default": true,
+        "order": 1,
+        "weight": 69,
+        "forms": [
+            {
+                "name": "bulbasaur",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/1/"
+            }
+        ],
+        "location_area_encounters": "https://pokeapi.co/api/v2/pokemon/1/encounters",
+        "moves": [
+            [
+                "razor-wind",
+                "13"
+            ],
+            [
+                "swords-dance",
+                "14"
+            ],
+            [
+                "cut",
+                "15"
+            ],
+            [
+                "bind",
+                "20"
+            ],
+            [
+                "vine-whip",
+                "22"
+            ],
+            [
+                "headbutt",
+                "29"
+            ],
+            [
+                "tackle",
+                "33"
+            ],
+            [
+                "body-slam",
+                "34"
+            ],
+            [
+                "take-down",
+                "36"
+            ],
+            [
+                "double-edge",
+                "38"
+            ],
+            [
+                "growl",
+                "45"
+            ],
+            [
+                "strength",
+                "70"
+            ],
+            [
+                "mega-drain",
+                "72"
+            ],
+            [
+                "leech-seed",
+                "73"
+            ],
+            [
+                "growth",
+                "74"
+            ],
+            [
+                "razor-leaf",
+                "75"
+            ],
+            [
+                "solar-beam",
+                "76"
+            ],
+            [
+                "poison-powder",
+                "77"
+            ],
+            [
+                "sleep-powder",
+                "79"
+            ],
+            [
+                "petal-dance",
+                "80"
+            ],
+            [
+                "string-shot",
+                "81"
+            ],
+            [
+                "toxic",
+                "92"
+            ],
+            [
+                "rage",
+                "99"
+            ],
+            [
+                "mimic",
+                "102"
+            ],
+            [
+                "double-team",
+                "104"
+            ],
+            [
+                "defense-curl",
+                "111"
+            ],
+            [
+                "light-screen",
+                "113"
+            ],
+            [
+                "reflect",
+                "115"
+            ],
+            [
+                "bide",
+                "117"
+            ],
+            [
+                "sludge",
+                "124"
+            ],
+            [
+                "skull-bash",
+                "130"
+            ],
+            [
+                "amnesia",
+                "133"
+            ],
+            [
+                "flash",
+                "148"
+            ],
+            [
+                "rest",
+                "156"
+            ],
+            [
+                "substitute",
+                "164"
+            ],
+            [
+                "snore",
+                "173"
+            ],
+            [
+                "curse",
+                "174"
+            ],
+            [
+                "protect",
+                "182"
+            ],
+            [
+                "sludge-bomb",
+                "188"
+            ],
+            [
+                "mud-slap",
+                "189"
+            ],
+            [
+                "outrage",
+                "200"
+            ],
+            [
+                "giga-drain",
+                "202"
+            ],
+            [
+                "endure",
+                "203"
+            ],
+            [
+                "charm",
+                "204"
+            ],
+            [
+                "false-swipe",
+                "206"
+            ],
+            [
+                "swagger",
+                "207"
+            ],
+            [
+                "fury-cutter",
+                "210"
+            ],
+            [
+                "attract",
+                "213"
+            ],
+            [
+                "sleep-talk",
+                "214"
+            ],
+            [
+                "return",
+                "216"
+            ],
+            [
+                "frustration",
+                "218"
+            ],
+            [
+                "safeguard",
+                "219"
+            ],
+            [
+                "sweet-scent",
+                "230"
+            ],
+            [
+                "synthesis",
+                "235"
+            ],
+            [
+                "hidden-power",
+                "237"
+            ],
+            [
+                "sunny-day",
+                "241"
+            ],
+            [
+                "rock-smash",
+                "249"
+            ],
+            [
+                "facade",
+                "263"
+            ],
+            [
+                "nature-power",
+                "267"
+            ],
+            [
+                "helping-hand",
+                "270"
+            ],
+            [
+                "ingrain",
+                "275"
+            ],
+            [
+                "knock-off",
+                "282"
+            ],
+            [
+                "secret-power",
+                "290"
+            ],
+            [
+                "weather-ball",
+                "311"
+            ],
+            [
+                "grass-whistle",
+                "320"
+            ],
+            [
+                "bullet-seed",
+                "331"
+            ],
+            [
+                "magical-leaf",
+                "345"
+            ],
+            [
+                "natural-gift",
+                "363"
+            ],
+            [
+                "worry-seed",
+                "388"
+            ],
+            [
+                "seed-bomb",
+                "402"
+            ],
+            [
+                "energy-ball",
+                "412"
+            ],
+            [
+                "leaf-storm",
+                "437"
+            ],
+            [
+                "power-whip",
+                "438"
+            ],
+            [
+                "captivate",
+                "445"
+            ],
+            [
+                "grass-knot",
+                "447"
+            ],
+            [
+                "venoshock",
+                "474"
+            ],
+            [
+                "acid-spray",
+                "491"
+            ],
+            [
+                "round",
+                "496"
+            ],
+            [
+                "echoed-voice",
+                "497"
+            ],
+            [
+                "grass-pledge",
+                "520"
+            ],
+            [
+                "work-up",
+                "526"
+            ],
+            [
+                "grassy-terrain",
+                "580"
+            ],
+            [
+                "confide",
+                "590"
+            ],
+            [
+                "grassy-glide",
+                "803"
+            ],
+            [
+                "tera-blast",
+                "851"
+            ],
+            [
+                "trailblaze",
+                "885"
+            ]
+        ],
+        "species": {
+            "name": "bulbasaur",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/1/"
+        },
+        "stats": [
+            {
+                "base_stat": 45,
+                "effort": 0,
+                "stat": {
+                    "name": "hp",
+                    "url": "https://pokeapi.co/api/v2/stat/1/"
+                }
+            },
+            {
+                "base_stat": 49,
+                "effort": 0,
+                "stat": {
+                    "name": "attack",
+                    "url": "https://pokeapi.co/api/v2/stat/2/"
+                }
+            },
+            {
+                "base_stat": 49,
+                "effort": 0,
+                "stat": {
+                    "name": "defense",
+                    "url": "https://pokeapi.co/api/v2/stat/3/"
+                }
+            },
+            {
+                "base_stat": 65,
+                "effort": 1,
+                "stat": {
+                    "name": "special-attack",
+                    "url": "https://pokeapi.co/api/v2/stat/4/"
+                }
+            },
+            {
+                "base_stat": 65,
+                "effort": 0,
+                "stat": {
+                    "name": "special-defense",
+                    "url": "https://pokeapi.co/api/v2/stat/5/"
+                }
+            },
+            {
+                "base_stat": 45,
+                "effort": 0,
+                "stat": {
+                    "name": "speed",
+                    "url": "https://pokeapi.co/api/v2/stat/6/"
+                }
+            }
+        ],
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "grass",
+                    "url": "https://pokeapi.co/api/v2/type/12/"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "poison",
+                    "url": "https://pokeapi.co/api/v2/type/4/"
+                }
+            }
+        ]
+    }
+]
