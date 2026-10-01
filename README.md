@@ -1,3 +1,3 @@
-# poe-api-fetch
+# pokemon-api-fetch
 
 Tools for fetching data from the Path of Exile API.
